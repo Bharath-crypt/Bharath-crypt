@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bharath Chandra</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/1e873a45dd12efe006323c57056efb03af72e8994c09ba5ecee27916b9d2be47/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3832382f302a37513379765349765f7430696f4a2d5a2e676966">
-- 🌱 I’m currently learning **SQL, Excel, Python, Tableau, Statistics, Data Cleaning.**
+ 🌱 I’m currently learning :SQL, Excel, Python, Tableau, Statistics, Data Cleaning.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bharath-crypt](https://github.com/Bharath-crypt)
+ 👨‍💻 All of my projects are available at [https://github.com/Bharath-crypt](https://github.com/Bharath-crypt)
 
-- ⚡ Fun fact **I think I’m hilarious... just ask my friends! 😄**
+ ⚡ Fun fact :I think I’m hilarious... just ask my friends! 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
